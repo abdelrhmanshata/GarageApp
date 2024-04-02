@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="mainColor">#65567d</color>
+    <color name="secondaryColor">#b4c2ac</color>
+
+    <color name="backgroundBottomNavigation">#fdfdfdfd</color>
+    <color name="backgroundNavigationItemChecked">#000000</color>
+    <!--    <color name="backgroundNavigationItemUnChecked">#80808080</color>-->
+    <color name="backgroundNavigationItemUnChecked">#fff</color>
+
+    <color name="input_background">#ECECEC</color>
+    <color name="backgroundWhite">#ffffff</color>
+    <color name="backgroundButton">#001c65</color>
+    <color name="colorGray">#80808080</color>
+    <color name="doctorBackground">#7892D5</color>
+    <color name="colorBrown">#A52A2A</color>
+
+    <color name="colorTransparent">#808479F1</color>
+    <color name="backgroundComment">#1A7568F6</color>
+    <color name="textColor">#2334C2</color>
+    <color name="backgroundColor">#2334C2</color>
+    <color name="failedColor">#C8EF4545</color>
+    <color name="background">#CDD2FD</color>
+    <color name="backgroundIntro">#9ea9fb</color>
+    <color name="backgroundLight">#f3f1fe</color>
+
+    <color name="colorRed">#FF0000</color>
+    <color name="colorCyan">#00BCD4</color>
+    <color name="colorBlueDark">#0000FF</color>
+    <color name="colorDarkBlue">#0000A0</color>
+    <color name="colorYellow">#FFFF00</color>
+    <color name="colorLightBlue">#ADD8E6</color>
+    <color name="colorGreen">#008000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlackLight">#80000000</color>
+
+    <color name="colorBrownLight">#BFA52A2A</color>
+
+    <color name="colorSliver">#C0C0C0C0</color>
+    <color name="colorPurpleDark">#800080</color>
+    <color name="colorLime">#00FF00</color>
+    <color name="colorLimeDark">#00ba00</color>
+    <color name="colorOlive">#808000</color>
+    <color name="colorMaroon">#800000</color>
+    <color name="colorOrange">#FFA500</color>
+
+    <color name="colorBlue">#0071bd</color>
+    <color name="colorBlueT">#6428a2cf</color>
+    <color name="colorPurple">#A130FF</color>
+    <color name="colorPurpleT">#64a130ff</color>
+    <color name="colorDark">#3A3E41</color>
+    <color name="colorPrimary">#6177FC</color>
+    <color name="colorPrimaryDark">#6177FC</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="lightGray">#F2F2F2</color>
+    <color name="disabledBtnBg">#999999</color>
+
+    <color name="color1">#4A7BA7</color>
+    <color name="color2">#04B4B3</color>
+    <color name="color3">#10CAC9</color>
+    <color name="color4">#F5A623</color>
+    <color name="color5">#FF7D50</color>
+    <color name="color6">#FC6644</color>
+    <color name="color7">#E75F40</color>
+    <color name="color8">#E13A20</color>
+    <color name="color9">#D93218</color>
+    <color name="color10">#C03823</color>
+
+    <color name="dialog_text">#37966f</color>
+
+    <color name="primary">#1C2E46</color>
+    <color name="primary_dark">#142232</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+
+    <color name="icon_background">#20FFFFFF</color>
+    <color name="error">#B00020</color>
+    <color name="received_message_background">#090D16</color>
+
+
+    <color name="received">#008000</color>
+    <color name="pending">#B00020</color>
+    <color name="waiting">#757575</color>
+
+
+</resources>

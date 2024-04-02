@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Lost&amp;Found</string>
+    <string name="map_api_key">AIzaSyDmHlatM-YM3mY5w9y7LGFz_yUZvOnHRgI</string>
+
+    <string name="minimumLength">Minimum Password Length 8</string>
+    <string name="passwordIsRequired">Password is  required !</string>
+
+
+    <string name="AlreadyRegistered">This account is already registered</string>
+    <string name="noConnection">No Connection</string>
+    <string name="successRegistered">Successfully Registered</string>
+    <string name="successLogin">Successfully Login</string>
+    <string name="userNotFound">This user not found !!!</string>
+    <string name="passwordIncorrect">Password incorrect !!!</string>
+    <string name="the_password_must_not_contain_white_space">The password must not contain white space</string>
+    <string name="password_is_required">Password is required</string>
+    <string name="please_enter_valid_email">PLease enter valid email.</string>
+    <string name="email_is_required">Email is required</string>
+    <string name="last_name_is_required">Last Name is required</string>
+    <string name="first_name_is_required">First Name is required</string>
+    <string name="password_doesn_t_match">Password doesn\'t match</string>
+    <string name="update_password">Update Password</string>
+    <string name="current_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="update">Update</string>
+    <string name="reservation_slot">Reservation Slot</string>
+    <string name="slot_price_00_sar_hour">Slot Price 00 SAR/Hour</string>
+    <string name="reservation">Reservation</string>
+    <string name="cancel">Cancel</string>
+    <string name="reservation_qr_code">Reservation Qr-Code</string>
+    <string name="we_re_always_here_for_you">We\'re Always Here For You</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_account_register">Don\'t have account ? Register</string>
+
+</resources>
